@@ -1,0 +1,99 @@
+import numpy
+import os
+import sys
+
+
+from nmt import train
+
+def main(job_id, params):
+    print params
+    validerr = train(saveto=params['model'][0],
+                     bn_saveto=params['bn_model'][0],
+                     reload_=params['reload'][0],
+                     dim_word=params['dim_word'][0],
+                     dim_dec=params['dim_dec'][0], 
+                     dim_attention=params['dim_attention'][0],
+                     dim_coverage=params['dim_coverage'][0],
+                     kernel_coverage=params['kernel_coverage'],
+                     kernel_conv1=params['kernel_conv1'],
+                     stride_conv1=params['stride_conv1'],
+                     channel_conv1=params['channel_conv1'][0],
+                     GrowthRate=params['GrowthRate'][0],
+                     DenseBlock=params['DenseBlock'],
+                     Bottleneck=params['Bottleneck'][0],
+                     Transition=params['Transition'][0],
+                     dim_target=params['dim_target'][0],
+                     input_channels=params['input_channels'][0],
+                     decay_c=params['decay-c'][0],
+                     clip_c=params['clip-c'][0],
+                     lrate=params['learning-rate'][0],
+                     optimizer=params['optimizer'][0], 
+                     patience=15,
+                     maxlen=params['maxlen'][0],
+                     maxImagesize=params['maxImagesize'][0],
+                     batch_Imagesize=500000,
+                     valid_batch_Imagesize=500000,
+                     batch_size=16,
+                     valid_batch_size=16,
+                     validFreq=-1,
+                     dispFreq=100,
+                     saveFreq=-1,
+                     sampleFreq=-1,
+          datasets=['../data/offline-train.pkl',
+                    '../data/train_data_v1.txt'],
+          valid_datasets=['../data/offline-test.pkl',
+                    '../data/test_data_v1.txt'],
+          dictionaries=['../data/dictionary.txt'],
+          valid_output=['./result/valid_decode_result.txt'],
+          valid_result=['./result/valid.wer'],
+                         use_dropout=params['use-dropout'][0])
+    return validerr
+
+if __name__ == '__main__':
+    
+    modelDir=sys.argv[1]
+    maxlen=[100]
+    maxImagesize=[500000]
+    dim_word=[256]
+    dim_dec=[256]
+    dim_attention=[512]
+    dim_coverage=[512]
+    kernel_coverage=[11,11]
+    # parameters of DenseNet
+    kernel_conv1=[7,7]
+    stride_conv1=[2,2]
+    channel_conv1=[48]
+    GrowthRate=[24]
+    DenseBlock=[16,16,16]
+    Bottleneck=[True]
+    Transition=[0.5]
+    
+
+        
+    main(0, {
+        'model': [modelDir+'attention_maxlen'+str(maxlen)+'_dimWord'+str(dim_word[0])+'_dim'+str(dim_dec[0])+'.npz'],
+        'bn_model': [modelDir+'bn_params.npz'],
+        'dim_word': dim_word,
+        'dim_dec': dim_dec,
+        'dim_attention': dim_attention,
+        'dim_coverage': dim_coverage,
+        'kernel_coverage': kernel_coverage,
+        'kernel_conv1': kernel_conv1,
+        'stride_conv1': stride_conv1,
+        'channel_conv1': channel_conv1,
+        'GrowthRate': GrowthRate,
+        'DenseBlock': DenseBlock,
+        'Bottleneck': Bottleneck,
+        'Transition': Transition,
+        'dim_target': [111], 
+        'input_channels': [1], 
+        'optimizer': ['adadelta'],
+        'decay-c': [1e-4], 
+        'clip-c': [100.], 
+        'use-dropout': [True],
+        'learning-rate': [1e-8],
+        'maxlen': maxlen,
+        'maxImagesize': maxImagesize,
+        'reload': [False]})
+
+
