@@ -381,7 +381,7 @@ def param_init_gru_cond(rng, options, params, prefix='gru_cond',
     params[_p(prefix, 'Ux_nl')] = Ux_nl
     params[_p(prefix, 'bx_nl')] = numpy.zeros((dim_nonlin,)).astype('float32')
 
-    # context to LSTM
+    # context to gru
     Wc = norm_weight(rng, dimctx, dim*2)
     params[_p(prefix, 'Wc')] = Wc
 
@@ -591,7 +591,7 @@ def init_params(options):
                                               dimctx=ctxdim,
                                               dimatt=options['dim_attention'])
     # readout
-    params = get_layer('ff')[0](rng, options, params, prefix='ff_logit_lstm',
+    params = get_layer('ff')[0](rng, options, params, prefix='ff_logit_gru',
                                 nin=options['dim_dec'], nout=options['dim_word'],
                                 ortho=False)
     params = get_layer('ff')[0](rng, options, params, prefix='ff_logit_prev',
@@ -748,13 +748,13 @@ def build_model(tparams, bn_tparams, options):
     opt_ret['dec_alphas'] = proj[2]
 
     # compute word probabilities
-    logit_lstm = get_layer('ff')[1](tparams, proj_h, options,
-                                    prefix='ff_logit_lstm', activ='linear')
+    logit_gru = get_layer('ff')[1](tparams, proj_h, options,
+                                    prefix='ff_logit_gru', activ='linear')
     logit_prev = get_layer('ff')[1](tparams, emb, options,
                                     prefix='ff_logit_prev', activ='linear')
     logit_ctx = get_layer('ff')[1](tparams, ctxs, options,
                                    prefix='ff_logit_ctx', activ='linear')
-    logit = logit_lstm+logit_prev+logit_ctx
+    logit = logit_gru+logit_prev+logit_ctx
 
     # maxout 2
     # maxout layer
@@ -896,13 +896,13 @@ def build_sampler(tparams, bn_tparams, options, trng, use_noise):
     ctxs = proj[1]
     next_alpha_past = proj[3]
 
-    logit_lstm = get_layer('ff')[1](tparams, next_state, options,
-                                    prefix='ff_logit_lstm', activ='linear')
+    logit_gru = get_layer('ff')[1](tparams, next_state, options,
+                                    prefix='ff_logit_gru', activ='linear')
     logit_prev = get_layer('ff')[1](tparams, emb, options,
                                     prefix='ff_logit_prev', activ='linear')
     logit_ctx = get_layer('ff')[1](tparams, ctxs, options,
                                    prefix='ff_logit_ctx', activ='linear')
-    logit = logit_lstm+logit_prev+logit_ctx
+    logit = logit_gru+logit_prev+logit_ctx
 
     # maxout layer
     shape = logit.shape
@@ -1084,7 +1084,7 @@ def train(dim_word=100,  # word vector dimensionality
           DenseBlock=[6,6,6],
           Bottleneck=True,
           Transition=1,
-          dim_dec=1000,  # the number of LSTM units
+          dim_dec=1000,  # the number of gru units
           dim_attention=512,
           dim_coverage=512,
           kernel_coverage=[5,5],
