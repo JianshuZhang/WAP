@@ -1144,7 +1144,7 @@ def train(dim_word=100,  # word vector dimensionality
                          batch_size=batch_size, batch_Imagesize=batch_Imagesize,maxlen=maxlen,maxImagesize=maxImagesize)
     valid,valid_uid_list = dataIterator(valid_datasets[0], valid_datasets[1],
                          worddicts,
-                         valid_batch_size=valid_batch_size, valid_batch_Imagesize=valid_batch_Imagesize,maxlen=maxlen,maxImagesize=maxImagesize)
+                         batch_size=valid_batch_size, batch_Imagesize=valid_batch_Imagesize,maxlen=maxlen,maxImagesize=maxImagesize)
 
     print 'Building model'
     params = init_params(model_options)
