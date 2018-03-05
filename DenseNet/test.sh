@@ -8,7 +8,7 @@
 
 export THEANO_FLAGS=device=cuda,floatX=float32,optimizer_including=cudnn
 
-python -u ./translate.py -k 10 ./models/attention_maxlen[100]_dimWord256_dim256.npz \
+python -u ./translate.py -k 10 ./models/attention_maxlen[200]_dimWord256_dim256.npz \
 							   ./models/bn_params.npz \
 	../data/dictionary.txt \
 	../data/offline-test.pkl \

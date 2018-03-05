@@ -52,7 +52,7 @@ def main(job_id, params):
 if __name__ == '__main__':
     
     modelDir=sys.argv[1]
-    maxlen=[100]
+    maxlen=[200]
     maxImagesize=[500000]
     dim_word=[256]
     dim_dec=[256]
