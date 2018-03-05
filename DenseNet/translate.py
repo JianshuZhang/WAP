@@ -140,9 +140,9 @@ def main(model, bn_model, dictionary_target, fea, latex, saveto, output, k=5):
     for kk, vv in worddicts.iteritems():
         worddicts_r[vv] = kk
 
-    valid, valid_uid_list = dataIterator(fea, latex,
-                         worddicts,
-                         valid_batch_size=1, maxlen=100)
+    valid, valid_uid_list = dataIterator(fea, latex, worddicts,
+                         batch_size=1, batch_Imagesize=500000, 
+                         maxlen=500, maxImagesize=500000)
 
     trng = RandomStreams(1234)
     use_noise = theano.shared(numpy.float32(0.))
