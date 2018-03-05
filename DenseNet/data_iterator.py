@@ -58,9 +58,9 @@ def dataIterator(feature_file,label_file,dictionary,batch_size,batch_Imagesize,m
         lab=targets[uid]
         batch_image_size=biggest_image_size*(i+1)
         if len(lab)>maxlen:
-            print 'this sentence length bigger than', maxlen, 'ignore'
+            print 'sentence', uid, 'length bigger than', maxlen, 'ignore'
         elif size>maxImagesize:
-            print 'this image size bigger than', maxImagesize, 'ignore'
+            print 'image', uid, 'size bigger than', maxImagesize, 'ignore'
         else:
             uidList.append(uid)
             if batch_image_size>batch_Imagesize or i==batch_size: # a batch is full
