@@ -12,7 +12,7 @@ python -u ./translate.py -k 10 ./models/attention_maxlen[200]_dimWord256_dim256.
 							   ./models/bn_params.npz \
 	../data/dictionary.txt \
 	../data/offline-test.pkl \
-	../data/test_data_v1.txt \
+	../data/test_caption.txt \
 	./result/test_decode_result.txt \
 	./result/test.wer
 

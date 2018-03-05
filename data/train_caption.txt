@@ -96,7 +96,7 @@ formulaire022-equation062	u ( x - x _ { 0 } ) + v ( y - y _ { 0 } ) = 0
 formulaire025-equation050	( ( 8 \div 1 3 0 ) \div ( 1 9 0 \times 1 2 ) ) \times ( ( 8 6 + 1 4 7 ) - ( 8 4 \div 0 ) ) \neq 2 1 4 7 4 8 3 6 4 7
 formulaire033-equation039	p - 1 , p
 formulaire008-equation005	2 0 + ( 9 6 \div 9 2 ) = 2 1 . 0 4
-200922-947-83	\int _ { \sigma - n } ^ { H } 4 d g _ { j }
+200922-947-83	\int ^ { H } _ { \sigma - n } 4 d g _ { j }
 MfrDB2883	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
 200923-1253-255	- o
 200926-1617-78	\frac { x _ { 1 } } { \frac { x _ { 2 } } { \frac { x _ { 3 } } { x _ { 4 } } } }
@@ -138,7 +138,7 @@ formulaire030-equation026	b _ { 1 3 }
 200922-947-190	\int \theta + F d n
 KME2G3_5_sub_35	\log _ { 2 } \frac { 1 } { 2 } + \log _ { 4 } \frac { 2 } { 4 }
 MfrDB3085	\frac { 5 } { x + 1 } + \frac { 5 } { x ^ { 2 } + x }
-MfrDB0079	\lim _ { x \rightarrow a } \frac { f ( x ) } { g ( x ) } = \lim _ { x \rightarrow a } \frac { f ^ { \prime } ( x ) } { g ^ { \prime } ( x ) }
+MfrDB0079	\lim _ { x \rightarrow a } \frac { f ( x ) } { g ( x ) } = \lim _ { x \rightarrow a } \frac { f ^ { ' } ( x ) } { g ^ { ' } ( x ) }
 200926-131-32	a x ^ { 4 } + b x + c = 0
 200926-1617-163	\alpha
 MfrDB1531	\sqrt { x ^ { 2 } } = | x |
@@ -247,7 +247,7 @@ KME2G3_12_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x -
 formulaire020-equation061	1 0 ^ { - 2 2 }
 2009213-137-62	( \sin ( x ) ^ { 2 } + 3 \cos ( x ) ^ { 2 } ) ^ { 4 }
 2009212-1031-128	\frac { b } { \sum N }
-81_caue	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_caue	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 MfrDB2678	| a + i b | = \sqrt { x ^ { 2 } + y ^ { 2 } }
 200926-1550-157	1 . 6
 formulaire016-equation012	u _ { n } = \frac { 1 } { n }
@@ -403,7 +403,7 @@ formulaire006-equation061	( 2 + 3 i )
 200923-1253-193	\int \gamma ^ { f } d m
 2009212-952-77	v
 formulaire028-equation058	s = 3
-200922-1017-144	\int _ { \sqrt { L } } ^ { H } \frac { z } { z } d N
+200922-1017-144	\int ^ { H } _ { \sqrt { L } } \frac { z } { z } d N
 200923-1253-19	x ^ { 2 } + y ^ { 2 } = z ^ { 2 }
 KME2G3_15_sub_65	[ \frac { 2 } { 3 } x ^ { \frac { 3 } { 2 } } ] _ { 0 } ^ { 1 }
 200923-1254-32	a x ^ { 4 } + b x + c = 0
@@ -500,8 +500,8 @@ MfrDB2208	\sqrt { x ^ { 2 } } = | x |
 200923-1553-27	9 . 9 E
 MfrDB2009	\sqrt { x y z } = \sqrt { x } \sqrt { y } \sqrt { z }
 formulaire005-equation004	t ^ { 5 } + t - a
-MfrDB1941	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
-9_em_71	T _ { \mu } ^ { \mu }
+MfrDB1941	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+9_em_71	T ^ { \mu } _ { \mu }
 200922-947-167	\beta ^ { E + e } + 0 < \int \beta d k
 formulaire036-equation044	a = \frac { ( d _ { 1 } + d _ { 2 } ) } { 2 } = \frac { m ( z _ { 1 } + z _ { 2 } ) } { 2 }
 200923-131-201	\frac { j } { u }
@@ -516,7 +516,7 @@ MfrDB2972	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b -
 formulaire022-equation020	1 1 5 \pm 1 7 0 / ( 8 7 - 1 4 9 - 1 5 8 )
 200926-1550-161	5 . 2
 formulaire024-equation072	q _ { 1 } + q _ { 2 } + q _ { 3 } = 1
-81_hirata	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_hirata	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 KME2G3_4_sub_74	\int _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
 MfrDB2803	A ( x ) = \frac { 1 } { x } + \frac { 1 } { x ^ { 2 } } + B ( x )
 MfrDB2971	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
@@ -539,7 +539,7 @@ formulaire022-equation046	x ^ { 3 } - x ^ { 2 } \sqrt { 7 } + x + \frac { 1 } { 
 MfrDB2186	a ^ { 2 } + b ^ { 2 } = c ^ { 2 }
 MfrDB2021	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
 formulaire007-equation014	f ( h )
-81_leissi	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_leissi	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 200924-1312-118	[ Y - f ]
 200925-1126-116	2 . 9
 formulaire015-equation066	n ^ { 2 } + n
@@ -548,7 +548,7 @@ formulaire034-equation037	s _ { 1 } , \ldots , s _ { n }
 2009210-947-156	B ^ { B + 4 }
 formulaire004-equation037	x _ { 0 } , y _ { 0 } , z _ { 0 }
 200926-1550-112	\sigma + \sum n
-81_carlos	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_carlos	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire036-equation022	s ^ { 2 } + s t = 1
 89_leo	x ^ { \prime } = x \cos \theta + y \sin \theta
 200923-1254-60	\frac { \beta + \gamma } { \theta }
@@ -826,7 +826,7 @@ MfrDB2546	f ( x , y ) = \frac { x } { y } + x y
 200923-1556-74	e _ { f _ { g _ { h } } }
 200924-1331-148	3 . 2
 73_fujita	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
-200926-1617-180	\int _ { d - h } ^ { S } \sqrt { g } d E
+200926-1617-180	\int ^ { S } _ { d - h } \sqrt { g } d E
 MfrDB1067	\sqrt { 4 } = 2
 formulaire011-equation066	g ( X ) = \sqrt { \sum _ { i = 1 } ^ { n } f _ { i } ( x _ { i } - X ) ^ { 2 } }
 200923-1254-105	\sqrt { 8 + l }
@@ -1004,7 +1004,7 @@ formulaire003-equation020	1 9 \times 7 \leq 1 3 3
 200922-947-21	\sum f + r
 200922-949-100	- \sigma
 formulaire007-equation070	7 6 \pm ( 1 0 2 + 1 5 0 ) \times 5 6
-81_daniel	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_daniel	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 MfrDB1878	\frac { T _ { 1 } ^ { 2 } } { T _ { 2 } ^ { 2 } } = \frac { a _ { 1 } ^ { 3 } } { a _ { 2 } ^ { 3 } }
 118_Fabricio	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
 200923-1553-213	\phi
@@ -1071,7 +1071,7 @@ formulaire002-equation042	\frac { 1 - 2 p } { \sqrt { n p q } }
 200924-1331-26	a + \frac { \sqrt { b + c } } { 2 }
 200923-1553-263	\sum q - 2
 200923-1553-12	\int _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
-MfrDB0061	\frac { f ^ { \prime } ( c ) } { g ^ { \prime } ( c ) } = \frac { f ( b ) - f ( a ) } { g ( b ) - g ( a ) }
+MfrDB0061	\frac { f ^ { ' } ( c ) } { g ^ { ' } ( c ) } = \frac { f ( b ) - f ( a ) } { g ( b ) - g ( a ) }
 formulaire022-equation032	l f = i d _ { X }
 formulaire039-equation042	h ( a ) = h ( b ) = 0
 MfrDB2986	( \frac { 1 } { m ^ { 2 } } - \frac { 3 m } { n } + \frac { 2 } { m n } )
@@ -1267,7 +1267,7 @@ MfrDB1530	\frac { ( x + 3 ) ( x - 5 ) } { 3 ( x - 1 ) } > 0
 MfrDB2564	x + y = z
 200923-1254-249	m + \sum z
 2009212-952-68	\tan ( \frac { \pi } { 2 } ) = \infty
-200922-949-157	\int _ { \gamma + V } ^ { m } \frac { \theta } { u } d e
+200922-949-157	\int ^ { m } _ { \gamma + V } \frac { \theta } { u } d e
 200922-949-127	\sum _ { Y \geq x } [ w ] + 2 . 0
 200923-131-153	\int _ { x d } ^ { - L } c - \frac { j } { l } d x
 200923-1253-180	- T - T - B
@@ -1748,7 +1748,7 @@ formulaire005-equation062	\frac { 1 + \frac { 7 } { 9 } t ^ { 2 } + \frac { 6 4 
 200924-1312-191	\sqrt { o + T } ^ { y }
 MfrDB0945	1 = 2 - 1
 formulaire008-equation013	( a + b ) ^ { 2 } = a ^ { 2 } + 2 a b + b ^ { 2 }
-MfrDB2840	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB2840	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 126_alfonso	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
 formulaire012-equation067	6 \times 0 , 3 5
 MfrDB2828	A ( x ) = \frac { 1 } { x } + \frac { 1 } { x ^ { 2 } } + B ( x )
@@ -1895,7 +1895,7 @@ MfrDB0059	y = f ( a ) + \frac { f ( c ) - f ( a ) } { c - a } ( x - a )
 2009213-137-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
 MfrDB0118	E = \frac { n ^ { 2 } h ^ { 2 } } { 8 m L ^ { 2 } }
 formulaire008-equation026	c ^ { 2 } = ( a - b ) ^ { 2 } + 2 a b
-200922-1017-9	\int _ { a ^ { \sigma } } ^ { e } L + w d q
+200922-1017-9	\int ^ { e } _ { a ^ { \sigma } } L + w d q
 formulaire032-equation053	n _ { 1 } = n _ { 2 } = \frac { 1 } { 2 } n _ { e }
 2009213-139-40	7 7 . 1
 200922-1017-44	\sin ( \frac { \pi } { 4 } ) = \frac { 1 } { \sqrt { 2 } }
@@ -1911,7 +1911,7 @@ formulaire035-equation068	x ^ { 4 } - 4 x ^ { 2 } + 2
 KME2G3_25_sub_65	[ \frac { 2 } { 3 } x ^ { \frac { 3 } { 2 } } ] _ { 0 } ^ { 1 }
 MfrDB1939	\sqrt { x ^ { 2 } } = | x |
 formulaire029-equation034	u _ { 5 } = ( 0 , 2 )
-81_alfonso	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_alfonso	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 200923-1254-68	\tan ( \frac { \pi } { 2 } ) = \infty
 200923-1556-249	S + k = n
 200926-1617-109	( r )
@@ -2505,7 +2505,7 @@ formulaire038-equation003	b _ { 1 } = 1
 200922-949-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
 2009212-952-117	\cdots + s
 200923-1556-30	\frac { - b + \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
-MfrDB2010	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB2010	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 200924-1331-201	z
 200926-1550-5	I ^ { C } < z
 200922-947-5	- A
@@ -2654,11 +2654,11 @@ formulaire014-equation014	\lim _ { x \rightarrow a } \frac { f ( x ) } { g ( x )
 2009212-1031-135	( 5 )
 formulaire029-equation053	\cos ( \theta ) = \frac { 1 - 2 } { 1 + 2 } = - \frac { 1 } { 3 }
 2009213-139-22	( m ) ^ { \phi }
-200923-1254-344	( \int _ { a } ^ { t } \sum \mu d g )
+200923-1254-344	( \int ^ { t } _ { a } \sum \mu d g )
 MfrDB3039	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
 MfrDB1755	( y - 3 ) ( y + 3 ) + y ( y + 3 ) = 0
 110_Nina	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
-MfrDB2372	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB2372	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 formulaire036-equation026	f ( x + r ) = f ( x )
 200923-1253-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
 80_david	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
@@ -3085,7 +3085,7 @@ MfrDB2143	\frac { T _ { 1 } ^ { 2 } } { T _ { 2 } ^ { 2 } } = \frac { a _ { 1 } 
 200922-1017-176	( 4 . 8 )
 formulaire034-equation014	k _ { 1 } = k _ { t } = k
 200926-1550-15	H e j
-MfrDB2909	l i m ( x + 2 )
+MfrDB2909	\lim ( x + 2 )
 200926-1550-118	\int y d x
 200926-1550-61	k ^ { 3 } + 1 4 k ^ { 2 } - 1 3 2 k + 1 7 8 9
 KME2G3_2_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
@@ -3435,7 +3435,7 @@ formulaire032-equation028	y = b + i e
 200926-1617-2	\int e ^ { x ^ { 2 } } x ^ { 3 } d x
 200924-1312-80	e ^ { \int x ^ { 2 } d x }
 200923-1251-138	8 . 5 + ( r ) ^ { b }
-81_silas	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_silas	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire004-equation070	0 \pm 1 4 5 - 3 5
 formulaire032-equation012	y _ { i j k }
 MfrDB1603	\lim _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
@@ -3590,7 +3590,7 @@ MfrDB1505	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 MfrDB1749	\sqrt [ 5 ] { 5 5 }
 KME2G3_12_sub_81	\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
 MfrDB0072	a + b = b + a
-200923-1254-336	\int _ { H } ^ { v } - m d z
+200923-1254-336	\int ^ { v } _ { H } - m d z
 200926-131-246	8 \Delta \sum a
 200926-131-162	N B
 MfrDB1079	1 + 1 = 2
@@ -3602,7 +3602,7 @@ formulaire002-equation070	1 4 8 - 1 4 1 \neq - 4
 82_Frank	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
 200922-949-183	n < \int \sqrt { z } d d
 formulaire024-equation043	y + 1 6
-200926-1550-146	\int _ { \frac { h } { 3 } } ^ { d } \sum H d q
+200926-1550-146	\int ^ { d } _ { \frac { h } { 3 } } \sum H d q
 2009213-137-13	\sqrt { 1 + \sqrt { 1 + z ^ { 2 } } }
 formulaire002-equation028	a _ { 2 } = - 1
 formulaire024-equation000	4 6 \pm ( ( 9 5 / 7 9 ) / 7 5 ) + ( 5 5 / 6 5 )
@@ -3840,7 +3840,7 @@ KME2G3_9_sub_30	\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
 200923-1254-309	[ t + o ] ^ { v _ { P } }
 formulaire017-equation050	1 8 1 \pm ( 1 2 9 + 1 1 7 ) \div ( 6 1 + 1 8 0 )
 formulaire025-equation009	g ( g v , g w ) = g ( v , w )
-81_miguel	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_miguel	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire019-equation063	\sqrt { x \times y } = \sqrt { x } \times \sqrt { y }
 200924-1312-266	j ( \sum i )
 200922-949-265	\sum _ { N = o } ^ { - E } u + P
@@ -3895,7 +3895,7 @@ formulaire010-equation029	i = ( 0 , 1 )
 MfrDB2161	t g 2 x = \frac { 2 \cdot t g x } { 1 - t g ^ { 2 } x }
 MfrDB1911	a _ { n } = a _ { 1 } \cdot q ^ { n - 1 }
 formulaire026-equation061	z - 1
-formulaire021-equation072	x = a _ { 0 } + \frac { 1 } { a _ { 1 } + \frac { 1 } { a _ { 2 } + \frac { 1 } { a _ { 3 } + \ldots } } }
+formulaire021-equation072	x = a _ { 0 } + \frac { 1 } { a _ { 1 } + \frac { 1 } { a _ { 2 } + \frac { 1 } { a _ { 3 } } } }
 200923-1253-56	2 \alpha + 3 \sqrt { \beta }
 formulaire022-equation018	n _ { 1 } \sin i _ { 1 } = n _ { 2 } \sin i _ { 2 }
 KME2G3_3_sub_28	z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
@@ -4057,7 +4057,7 @@ MfrDB2471	\frac { ( x + 3 ) ( x - 5 ) } { 3 ( x - 1 ) } > 0
 200926-1550-160	4 9 . 4 9
 formulaire007-equation044	a _ { i , j } = f ( e _ { i } , e _ { j } )
 200923-1254-153	2
-81_leo	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_leo	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 200922-947-191	R
 2009210-947-113	y
 MfrDB2293	\log 5 + \log 4 x = 2
@@ -4112,7 +4112,7 @@ formulaire018-equation054	\frac { d } { d s } c _ { n } ( f , s ) = \frac { n } 
 2009210-947-87	n
 formulaire024-equation063	2 5 2 = 2 8 \times 9
 MfrDB2901	x _ { 1 } = \frac { ( 1 - \frac { 2 } { \sqrt { N - 1 } } ) N } { L }
-81_edwin	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_edwin	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire013-equation026	X _ { 2 } = 2 1
 200924-1312-293	z
 MfrDB1269	\int \limits _ { a } ^ { b } f ( x ) d x = F ( b ) - F ( a )
@@ -4132,7 +4132,7 @@ formulaire028-equation056	x + n
 200923-1556-20	\frac { \sin ( x ) } { \cos ( x ) } = \tan ( x )
 MfrDB1064	1 + 2
 94_Nina	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
-formulaire012-equation030	7 1 + ( 1 3 \div 1 6 7 ) = 7 1 . 0 8
+formulaire012-equation030	7 1 + ( 1 3 / 1 6 7 ) = 7 1 . 0 8
 200924-1312-159	( \frac { X } { 9 } )
 formulaire022-equation010	( ( 1 8 / 6 ) \times 1 6 6 ) - ( 8 5 - 1 5 8 ) = 5 7 1
 formulaire029-equation069	j ^ { 2 } = - 1
@@ -4177,7 +4177,7 @@ MfrDB0036	2 \cdot 3 \cdot 1 1 \geq 3 \cdot 5
 89_david	x ^ { \prime } = x \cos \theta + y \sin \theta
 200923-1553-189	- 3
 KME2G3_2_sub_65	[ \frac { 2 } { 3 } x ^ { \frac { 3 } { 2 } } ] _ { 0 } ^ { 1 }
-200922-947-86	\int _ { \frac { E } { y } } ^ { - r } - o d M
+200922-947-86	\int ^ { - r } _ { \frac { E } { y } } - o d M
 89_daniel	x ^ { \prime } = x \cos \theta + y \sin \theta
 MfrDB1451	5 0 ! \cdot n = 4 8 !
 200922-949-48	\sin ( \frac { \pi } { 3 } ) = \frac { 1 } { 2 }
@@ -4518,7 +4518,7 @@ KME2G3_16_sub_74	\int _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
 formulaire028-equation045	1 3 8 / ( 1 7 8 / ( 1 2 8 + 1 6 6 ) ) \geq 2 2 7
 91_daniel	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
 200926-1617-7	\sum _ { m } f ( m + 3 )
-81_jorge	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_jorge	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 200924-1331-137	[ \int F d G ] ^ { 4 . 8 4 } ( T _ { M } )
 111_caue	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
 formulaire036-equation051	f ( \alpha ) = \frac { 1 } { 2 \pi }
@@ -4718,7 +4718,7 @@ MfrDB1573	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac 
 MfrDB1178	\alpha + \beta = \pi
 formulaire007-equation034	u _ { 0 } = ( 0 , 0 )
 formulaire011-equation029	\frac { a ^ { 2 } + b ^ { 2 } - 2 m ^ { 2 } } { 2 }
-MfrDB0080	a _ { n + 1 } = a _ { n } - \frac { f ( a _ { n } ) } { f ^ { \prime } ( a _ { n } ) }
+MfrDB0080	a _ { n + 1 } = a _ { n } - \frac { f ( a _ { n } ) } { f ^ { ' } ( a _ { n } ) }
 formulaire030-equation064	y = f ( x , t ) = x - v t
 formulaire002-equation002	\phi ( n ) = ( p - 1 ) ( q - 1 ) = n + 1 - s
 200922-949-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
@@ -4873,7 +4873,7 @@ MfrDB1642	E = M C ^ { 2 }
 200923-1251-226	2
 formulaire006-equation046	2 n a _ { n } a _ { n - 2 } - ( n - 1 ) a _ { n - 1 } ^ { 2 } = 0
 2009212-1031-136	\int S ^ { t } d C
-81_danilo	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_danilo	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire038-equation028	X ^ { n } - 1
 200923-1553-198	9 = M ^ { q }
 200926-1617-61	k ^ { 3 } + 1 4 k ^ { 2 } - 1 3 2 k + 1 7 8 9
@@ -4916,7 +4916,7 @@ MfrDB2968	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t |
 200922-947-31	\frac { - b - \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
 KME2G3_23_sub_35	\log _ { 2 } \frac { 1 } { 2 } + \log _ { 4 } \frac { 2 } { 4 }
 200923-1251-158	3 \sum _ { k \geq \beta } B
-MfrDB0032	\frac { \int \sqrt { 1 + y ^ { \prime } ( t ) ^ { 2 } } d t } { \int \sqrt { x ^ { \prime } ( t ) ^ { 2 } + y ^ { \prime } ( t ) ^ { 2 } } d t }
+MfrDB0032	\frac { \int \sqrt { 1 + y ^ { ' } ( t ) ^ { 2 } } d t } { \int \sqrt { x ^ { ' } ( t ) ^ { 2 } + y ^ { ' } ( t ) ^ { 2 } } d t }
 formulaire023-equation051	y \neq 0
 200925-1126-111	[ 3 ] ^ { P }
 200922-949-116	\sqrt { V + p }
@@ -4951,7 +4951,7 @@ formulaire033-equation068	\sqrt { 1 3 }
 200922-947-215	u ^ { M _ { m } } ( X )
 formulaire023-equation021	a _ { 3 } = 3 2
 2009213-137-4	S h
-200924-1312-199	\int _ { t } ^ { h } t d f
+200924-1312-199	\int ^ { h } _ { t } t d f
 108_miguel	a ^ { x } a ^ { y } = a ^ { x + y }
 formulaire009-equation013	( x - 3 ) ^ { 2 } = 4
 110_herbert	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
@@ -5136,7 +5136,7 @@ formulaire031-equation066	1 0 0 - X ^ { 2 } = 9 6
 formulaire028-equation061	\frac { 1 } { 3 }
 MfrDB0082	x ( t ) = a + r \cdot \cos ( v t )
 formulaire017-equation055	1 4 9 / ( 1 2 3 / ( 3 7 + 1 5 5 ) ) \neq - 2 5 8
-81_Fabricio	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_Fabricio	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire013-equation004	( \cos ( a ) , \sin ( a ) )
 MfrDB2276	V = a \cdot b \cdot c
 KME2G3_13_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
@@ -5261,7 +5261,7 @@ formulaire001-equation067	v ( y ) = y
 200926-131-124	8 9 . 7 9
 90_mijail	y = r \sin \theta
 formulaire023-equation023	y ^ { 2 } = 1 - x ^ { 2 }
-MfrDB1533	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB1533	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 2009212-1031-97	z ^ { \frac { s } { \beta } }
 200925-1126-125	\sqrt { x }
 formulaire020-equation071	\frac { f ( x ) } { x } = \sin \frac { 1 } { x }
@@ -5468,7 +5468,7 @@ formulaire007-equation051	x = \phi _ { k i } ( z )
 formulaire015-equation029	\frac { 1 } { \sqrt { 1 - \frac { v ^ { 2 } } { c ^ { 2 } } } }
 MfrDB0587	4 + 4
 formulaire003-equation026	z ^ { 2 } - 2 z - 1 = 0
-MfrDB1325	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB1325	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 MfrDB2861	g ( x , y ) = \sqrt [ 3 ] { x - y } + \sqrt { | x + y | }
 200923-1251-32	a x ^ { 4 } + b x + c = 0
 200924-1331-51	\sum 3 + \int s d m
@@ -5752,7 +5752,7 @@ formulaire016-equation074	e ^ { - x } + 0 , 2 x - 1 = 0
 MfrDB2898	v _ { c } = v _ { c - 1 } ( \frac { r - c } { c } )
 formulaire002-equation054	1 + d - 1 ^ { \frac { m } { 2 } - 1 } + m \sum _ { i = 0 } ^ { \frac { m - 4 } { 2 } } ( d - 1 ) ^ { i }
 formulaire032-equation062	\phi _ { 1 } ( p ) + \phi _ { 2 } ( p )
-2009212-1031-13	\int _ { z o } ^ { n } p - B d d
+2009212-1031-13	\int ^ { n } _ { z o } p - B d d
 2009212-952-100	\pi
 formulaire016-equation035	9 1 + ( ( 1 4 7 / 1 1 5 ) \times 9 7 ) \leq 2 1 5
 200923-1556-84	\frac { x } { a + \frac { x } { b - \frac { x } { c } } }
@@ -5760,7 +5760,7 @@ formulaire016-equation035	9 1 + ( ( 1 4 7 / 1 1 5 ) \times 9 7 ) \leq 2 1 5
 111_carlos	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
 formulaire017-equation033	x ^ { 2 } + y ^ { 2 }
 117_edwin	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
-81_rosario	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_rosario	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 200923-1251-17	l
 200923-1253-43	\frac { \pi r ^ { 2 } h } { 3 }
 KME2G3_7_sub_35	\log _ { 2 } \frac { 1 } { 2 } + \log _ { 4 } \frac { 2 } { 4 }
@@ -5924,7 +5924,7 @@ formulaire032-equation013	x _ { k + 1 } = x _ { k } + \alpha _ { k } s _ { k }
 200924-1312-59	5 6 . 5
 200924-1312-257	\sin ^ { p } P
 MfrDB1866	\int \limits _ { a } ^ { a } f ( x ) d x = 0
-81_david	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_david	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire021-equation057	i ( t )
 200922-949-104	\frac { v + 1 } { - h }
 KME2G3_20_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
@@ -5947,7 +5947,7 @@ MfrDB3005	\sum _ { n = 1 } ^ { \infty } ( \frac { \sum _ { i = 1 } ^ { n } a _ {
 93_david	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
 MfrDB2894	\lim _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
 MfrDB1805	x ^ { y } - y ^ { x }
-81_Frank	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_Frank	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire026-equation057	\theta _ { x } , \theta _ { y } , \theta _ { z }
 MfrDB2182	2 + 2
 formulaire039-equation017	\beta ( t , \beta ( s , x ) ) = \beta ( t + s , x )
@@ -6081,7 +6081,7 @@ formulaire015-equation050	4 6 \pm 1 7 1 + 1 9 0
 79_david	p = \sqrt { a ^ { 2 } + b ^ { 2 } - 2 a b \cos A }
 MfrDB2906	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
 MfrDB1709	\int \limits _ { a } ^ { b } f ( x ) d x = F ( b ) - F ( a )
-81_herbert	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_herbert	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 2009220-1327-4	\sqrt { X } ^ { 8 }
 MfrDB1463	S _ { n } = \sum _ { k = 1 } ^ { n } a _ { k }
 formulaire035-equation023	f ( z ) ^ { 2 } = z
@@ -6633,7 +6633,7 @@ formulaire005-equation071	c = \sqrt { a ^ { 2 } + b ^ { 2 } - 2 a b \cos \gamma 
 formulaire004-equation074	a = b ^ { \frac { q ^ { d } - 1 } { 2 } }
 200923-1254-224	- T - T - M
 200923-1556-209	\sum [ [ Y ] ]
-81_Nina	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_Nina	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 MfrDB1839	v _ { p } = \sqrt { \frac { 2 k M _ { z } } { R _ { z } + h } } = \sqrt { 2 } v _ { k }
 MfrDB1324	\sqrt { x y z } = \sqrt { x } \sqrt { y } \sqrt { z }
 formulaire030-equation044	\frac { a \sqrt { 5 } } { 2 } h = \frac { a } { 2 } a
@@ -6821,7 +6821,7 @@ formulaire005-equation042	\lim _ { h \rightarrow 0 } \frac { f ( z + h ) - f ( z
 MfrDB0944	1 + 1 = 2
 formulaire034-equation034	n _ { s } = \frac { 6 0 f } { p }
 formulaire030-equation020	5 / ( 3 7 + 3 6 + 8 ) = 0 . 0 6
-2009210-947-69	\int _ { \sum j } ^ { - p } w x d \alpha
+2009210-947-69	\int ^ { - p } _ { \sum j } w x d \alpha
 MfrDB1228	e ^ { i \pi } + 1 = 0
 2009212-952-114	m
 90_leissi	y = r \sin \theta
@@ -6844,7 +6844,7 @@ formulaire017-equation003	\theta ^ { ( 0 ) }
 200923-131-189	u
 MfrDB2497	\frac { 5 x - 7 } { 3 } \leq 2 x + 5
 116_herbert	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
-81_mijail	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_mijail	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 formulaire031-equation026	b _ { 2 n + 1 }
 MfrDB0982	i ^ { 2 } = x
 200924-1312-113	a F
@@ -6925,7 +6925,7 @@ formulaire025-equation039	t _ { 0 } = r _ { 0 } - 0
 MfrDB0193	2 0 0 - 2 0 0 = 0
 KME2G3_12_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
 200924-1312-168	\sqrt { - \sum 1 + j - \frac { s } { \theta - G } }
-81_user0	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A _ { k } ^ { 2 } } }
+81_user0	A _ { 2 k } = \frac { 2 R A _ { k } } { 2 R + \sqrt { 4 R ^ { 2 } + A ^ { 2 } _ { k } } }
 MfrDB0605	( 1 ^ { 3 } + 4 ) x + y
 MfrDB3030	( 1 + x ) ^ { r } \geq 1 + r x
 KME2G3_10_sub_30	\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
@@ -7072,7 +7072,7 @@ formulaire025-equation000	( ( 1 1 4 + 1 1 8 ) \times ( 1 1 4 \times 5 9 ) ) + ( 
 200923-131-69	F
 formulaire031-equation055	8 6 \pm 1 7 9 + 1 7 3
 formulaire012-equation011	r \sqrt { 2 }
-200923-1254-343	\int _ { \frac { Y } { d } } ^ { \frac { t } { x } } \sum 8 d \theta
+200923-1254-343	\int ^ { \frac { t } { x } } _ { \frac { Y } { d } } \sum 8 d \theta
 formulaire008-equation000	6 0 - 1 3 6 \geq - 7 6
 formulaire034-equation026	c _ { 1 } c _ { 2 }
 200926-1617-121	i
@@ -7427,7 +7427,7 @@ formulaire010-equation013	x y = \frac { c } { a }
 formulaire015-equation026	\sum a _ { n } ( x )
 formulaire006-equation041	X \rightarrow Y
 formulaire018-equation013	x + y
-200923-1553-252	\int _ { A ( X ) } ^ { V } \sum c d y
+200923-1553-252	\int ^ { V } _ { A ( X ) } \sum c d y
 200923-1556-133	\cdots + 4
 98_user0	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
 MfrDB2767	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
@@ -7449,7 +7449,7 @@ formulaire022-equation009	w _ { i j } = \frac { 1 } { n } \sum _ { k = 1 } ^ { p
 200922-949-20	\frac { \sin ( x ) } { \cos ( x ) } = \tan ( x )
 200923-131-42	\frac { 1 } { 3 } \pi r ^ { 2 } h
 MfrDB2936	f ( x , y ) = f _ { 1 } ( x , y ) + f _ { 2 } ( \frac { x } { y } )
-MfrDB2210	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB2210	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 formulaire032-equation037	g ( u ) = y ( e ^ { u } )
 formulaire028-equation007	v _ { 1 } , \ldots , v _ { n }
 2009213-137-237	\sum \phi
@@ -7542,7 +7542,7 @@ formulaire023-equation070	7 7 + 1 1 3 \geq 1 8 9
 2009220-1327-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 MfrDB0037	\int \limits _ { - \infty } ^ { \infty } ( f ( x ) - x ) d x
 200923-1254-43	\frac { \pi r ^ { 2 } h } { 3 }
-200926-1617-243	\int _ { L + w } ^ { 2 } c d \gamma
+200926-1617-243	\int ^ { 2 } _ { L + w } c d \gamma
 formulaire012-equation050	1 0 0 + 1 8 9 \neq - 8 1
 200923-1254-357	r < \int \gamma d B
 formulaire019-equation033	3 5 1 = 3 ^ { 3 } \times 1 3
@@ -7990,7 +7990,7 @@ MfrDB3366	x ^ { 2 } - x - 6 < 0
 MfrDB3368	\lim _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
 MfrDB3369	| \sin z | = \sqrt { 1 - \cos ^ { 2 } z }
 MfrDB3370	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
-MfrDB3372	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB3372	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 MfrDB3373	\frac { ( | a | - | b | ) ^ { 2 } } { | a - b | }
 MfrDB3374	\sqrt { x y z } = \sqrt { x } \sqrt { y } \sqrt { z }
 MfrDB3375	| a + i b | = \sqrt { x ^ { 2 } + y ^ { 2 } }
@@ -8059,7 +8059,7 @@ MfrDB3458	\frac { ( | a | - | b | ) ^ { 2 } } { | a - b | }
 MfrDB3459	a x + b < c
 MfrDB3460	x ^ { 2 } - x - 6 < 0
 MfrDB3461	\sqrt { x ^ { 2 } } = | x |
-MfrDB3462	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB3462	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 MfrDB3463	\sqrt { a } = 2 ^ { - n } \sqrt { 4 ^ { n } a }
 MfrDB3464	f ( x ) \cdot h ( x ) = ( x + 1 ) ( 2 x - 3 )
 MfrDB3465	\sqrt { x y z } = \sqrt { x } \sqrt { y } \sqrt { z }
@@ -8123,7 +8123,7 @@ MfrDB3557	x < \frac { c - b } { a }
 MfrDB3558	x ^ { 2 } - x - 6 < 0
 MfrDB3560	\sqrt { x ^ { 2 } } = | x |
 MfrDB3561	\sqrt { x y z } = \sqrt { x } \sqrt { y } \sqrt { z }
-MfrDB3563	f ^ { \prime } ( x ) = \frac { 1 } { 2 \sqrt { x } }
+MfrDB3563	f ^ { ' } ( x ) = \frac { 1 } { 2 \sqrt { x } }
 MfrDB3565	a _ { n } = a _ { 1 } \cdot q ^ { n - 1 }
 MfrDB3566	\sqrt { x } = 1 0 ^ { ( \log x ) / 2 }
 MfrDB3567	\sqrt [ n ] { \frac { n + 1 } { ( n - 1 ) ^ { 2 } } }
