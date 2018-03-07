@@ -30,7 +30,7 @@ p11
 I24
 sS'batch_Imagesize'
 p12
-I500000
+I400000
 sS'input_channels'
 p13
 I1
@@ -40,7 +40,7 @@ S'./models/bn_params.npz'
 p15
 sS'maxlen'
 p16
-I100
+I200
 sS'DenseBlock'
 p17
 (lp18
@@ -49,7 +49,7 @@ aI16
 aI16
 asS'saveto'
 p19
-S'./models/attention_maxlen[100]_dimWord256_dim256.npz'
+S'./models/attention_maxlen[200]_dimWord256_dim256.npz'
 p20
 sS'dim_coverage'
 p21
@@ -61,10 +61,10 @@ S'./result/valid.wer'
 p24
 asS'valid_batch_size'
 p25
-I16
+I8
 sS'maxImagesize'
 p26
-I500000
+I400000
 sS'Bottleneck'
 p27
 I01
@@ -96,7 +96,7 @@ S'./result/valid_decode_result.txt'
 p38
 asS'batch_size'
 p39
-I16
+I8
 sS'encoder'
 p40
 S'gru'
@@ -111,9 +111,9 @@ p44
 sS'valid_datasets'
 p45
 (lp46
-S'../../prepare_data/data/offline-valid-493.pkl'
+S'../data/offline-test.pkl'
 p47
-aS'../../prepare_data/data/valid_data_v3_493.txt'
+aS'../data/test_caption.txt'
 p48
 asS'use_dropout'
 p49
@@ -121,9 +121,9 @@ I01
 sS'datasets'
 p50
 (lp51
-S'../../prepare_data/data/offline-train.pkl'
+S'../data/offline-train.pkl'
 p52
-aS'../../prepare_data/data/train_data_v3.txt'
+aS'../data/train_caption.txt'
 p53
 asS'dim_word'
 p54
@@ -137,7 +137,7 @@ I512
 sS'dictionaries'
 p57
 (lp58
-S'../../prepare_data/data/dictionary.txt'
+S'../data/dictionary.txt'
 p59
 asS'saveFreq'
 p60
@@ -155,5 +155,5 @@ p64
 I00
 sS'valid_batch_Imagesize'
 p65
-I500000
+I400000
 s.
