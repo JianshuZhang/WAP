@@ -7,7 +7,9 @@ import numpy
 from scipy.misc import imread, imresize, imsave
 
 image_path='./off_image_train/'
+# image_path='./off_image_test/' for test.pkl
 outFile='offline-train.pkl'
+# outFile='offline-test.pkl'
 oupFp_feature=open(outFile,'wr')
 
 features={}
@@ -17,6 +19,7 @@ channels=1
 sentNum=0
 
 scpFile=open('train_caption.txt')
+# scpFile=open('test_caption.txt')
 while 1:
     line=scpFile.readline().strip() # remove the '\r\n'
     if not line:
