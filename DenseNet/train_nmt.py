@@ -31,8 +31,8 @@ def main(job_id, params):
                      patience=15,
                      maxlen=params['maxlen'][0],
                      maxImagesize=params['maxImagesize'][0],
-                     batch_Imagesize=500000,
-                     valid_batch_Imagesize=500000,
+                     batch_Imagesize=500000, # 400000 for 12G GPU
+                     valid_batch_Imagesize=500000, # 400000 for 12G GPU
                      batch_size=8,
                      valid_batch_size=8,
                      validFreq=-1,

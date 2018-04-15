@@ -791,7 +791,8 @@ def build_sampler(tparams, bn_tparams, options, trng, use_noise):
 
     name = 'input'
     conv_filter = tparams[_p('dense', name)]
-    oup = theano.tensor.nnet.conv2d(oup, conv_filter, border_mode='half', subsample=(2,2))
+    stride_conv1 = (options['stride_conv1'][0], options['stride_conv1'][1])
+    oup = theano.tensor.nnet.conv2d(oup, conv_filter, border_mode='half', subsample=stride_conv1)
     bn_gamma = tparams[_p(_p('dense', name), 'bn_gamma')]
     bn_beta = tparams[_p(_p('dense', name), 'bn_beta')]
     bn_mean = bn_tparams[_p(_p('dense', name), 'bn_mean')]
