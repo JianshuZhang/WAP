@@ -23,10 +23,11 @@ If you find WAP useful in your research, please consider citing:
       publisher={Elsevier}
     }
 
-    @article{zhang2018multi,
-      title={Multi-Scale Attention with Dense Encoder for Handwritten Mathematical Expression Recognition},
+    @inproceedings{zhang2018multi,
+      title={Multi-scale attention with dense encoder for handwritten mathematical expression recognition},
       author={Zhang, Jianshu and Du, Jun and Dai, Lirong},
-      journal={arXiv preprint arXiv:1801.03530},
+      booktitle={International Conference on Pattern Recognition},
+      pages={2245--2250},
       year={2018}
     }
 
